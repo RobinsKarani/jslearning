@@ -1,0 +1,23 @@
+#CountLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: sans-serif;
+
+}
+#BtnContainer{
+    text-align: center;
+}
+.Buttons{
+ padding: 10px 20px;   
+ font-size: 1.5em;
+ background-color: rgb(201, 238, 199);
+ border-radius: 5px;
+ border: 2px solid rgba(200, 228, 206, 0.958);
+ color: black;
+cursor: pointer;
+transition: background-color 0.25s;
+}
+.Buttons:hover{
+    background-color: rgb(3, 215, 31);
+}
