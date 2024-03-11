@@ -1,0 +1,10 @@
+*{
+    text-align: center;
+    margin-top: 50px;
+}
+.labels{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+    size: 50px;
+}

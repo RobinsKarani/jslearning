@@ -16,3 +16,4 @@ let RandomNumber = Math.floor(Math.random() * (max-min)) + min;// set the min to
 console.log(RandomNumber);
 
 */
+
